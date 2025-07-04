@@ -1,0 +1,255 @@
+{
+  "all_addresses": [
+    [
+      "1521 S Frontage Rd, Columbus, Ms 39701",
+      "likely_commercial"
+    ],
+    [
+      "1555 Arrington Rd, College Station, Tx 77845",
+      "likely_residential"
+    ],
+    [
+      "156 Polk Road 43, Mena, Ar 71953",
+      "likely_residential"
+    ],
+    [
+      "1560 Tower Dr Ne, Arab, Al 35016",
+      "likely_residential"
+    ],
+    [
+      "1601 Highway 45 N, Columbus, Ms 39705",
+      "likely_commercial"
+    ],
+    [
+      "1605 170Th St, Hampton, Ia 50441",
+      "likely_residential"
+    ],
+    [
+      "1611 Veterans Ave, Vandalia, Il 62471",
+      "likely_residential"
+    ],
+    [
+      "1622 Nw 55Th Pl, Gainesville, Fl 32653",
+      "likely_residential"
+    ],
+    [
+      "1630 S Constitution Ave, Ashdown, Ar 71822",
+      "likely_residential"
+    ],
+    [
+      "1700 Nw 80Th Blvd, Gainesville, Fl 32606",
+      "likely_commercial"
+    ],
+    [
+      "1701 Ragu Dr, Owensboro, Ky 42303",
+      "likely_residential"
+    ],
+    [
+      "1713 E Bowman Dr, Greenville, Il 62246",
+      "likely_residential"
+    ],
+    [
+      "1717 Highway 59 Loop N, Livingston, Tx 77351",
+      "likely_commercial"
+    ],
+    [
+      "17203 Us Highway 70, Lone Grove, Ok 73443",
+      "likely_commercial"
+    ],
+    [
+      "1740 Ne Loop, Carthage, Tx 75633",
+      "unknown"
+    ],
+    [
+      "1745 N Airport Rd, Fremont, Ne 68025",
+      "likely_residential"
+    ],
+    [
+      "General Industrial",
+      "likely_commercial"
+    ],
+    [
+      "17626 N College St, Lindale, Tx 75771",
+      "likely_residential"
+    ],
+    [
+      "1767 S 15Th Ave, Ozark, Mo 65721",
+      "likely_residential"
+    ],
+    [
+      "177 Frontier Park Dr, O Fallon, Mo 63366",
+      "likely_commercial"
+    ],
+    [
+      "17801 S State Highway 6 S, College Station, Tx 77845",
+      "likely_commercial"
+    ],
+    [
+      "17819 S Us Highway 377, Dublin, Tx 76446",
+      "likely_commercial"
+    ],
+    [
+      "180 Holt Ave, Macon, Ga 31201",
+      "likely_residential"
+    ],
+    [
+      "180 Shamrock Industrial Blvd, Tyrone, Ga 30290",
+      "likely_commercial"
+    ],
+    [
+      "1800 Hillsboro Rd, Vandalia, Il 62471",
+      "likely_residential"
+    ],
+    [
+      "1801 N Lincoln, Lovington, Nm 88260",
+      "likely_residential"
+    ],
+    [
+      "1806 W Fletcher St, Vandalia, Il 62471",
+      "likely_residential"
+    ],
+    [
+      "1820 S Dumas Ave, Dumas, Tx 79029",
+      "likely_residential"
+    ],
+    [
+      "1823 W Broadway St, Forrest City, Ar 72335",
+      "likely_residential"
+    ],
+    [
+      "1847 Us Highway 59 Pkwy S, Carthage, Tx 75633",
+      "likely_commercial"
+    ],
+    [
+      "1848 Barnes St, Reidsville, Nc 27320",
+      "likely_residential"
+    ],
+    [
+      "1851 W Highway 50, O Fallon, Il 62269",
+      "likely_commercial"
+    ],
+    [
+      "1875 S Frontage Rd, Columbus, Ms 39701",
+      "likely_commercial"
+    ],
+    [
+      "189 Commerce Pl, Asheboro, Nc 27203",
+      "likely_commercial"
+    ],
+    [
+      "19 North Dr Se, Acworth, Ga 30102",
+      "likely_residential"
+    ],
+    [
+      "1902 Vandalia St, Collinsville, Il 62234",
+      "likely_residential"
+    ],
+    [
+      "1915 Highway 82 E, Whitesboro, Tx 76273",
+      "likely_commercial"
+    ],
+    [
+      "1942 N Brindlee Mountain Pkwy, Arab, Al 35016",
+      "unknown"
+    ],
+    [
+      "Self-Storage",
+      "likely_residential"
+    ],
+    [
+      "1991 Highway 337 Nw, Corydon, In 47112",
+      "likely_commercial"
+    ],
+    [
+      "20 North Ave Ne, Rome, Ga 30161",
+      "likely_residential"
+    ],
+    [
+      "200 E Blackjack St, Dublin, Tx 76446",
+      "likely_residential"
+    ],
+    [
+      "200 Success Blvd, Dumas, Tx 79029",
+      "likely_commercial"
+    ],
+    [
+      "2000 E 4Th St, Owensboro, Ky 42303",
+      "likely_residential"
+    ],
+    [
+      "2001 Town West Dr, Rogers, Ar 72756",
+      "likely_residential"
+    ],
+    [
+      "2002 W Military Ave, Fremont, Ne 68025",
+      "likely_residential"
+    ],
+    [
+      "2003 Ross Creek Rd, Waldron, Ar 72958",
+      "likely_residential"
+    ],
+    [
+      "2006 N Main St, Shelbyville, Tn 37160",
+      "likely_residential"
+    ],
+    [
+      "201 Fairburn Industrial Blvd, Fairburn, Ga 30213",
+      "likely_commercial"
+    ]
+  ],
+  "residential": [
+    "1555 Arrington Rd, College Station, Tx 77845",
+    "156 Polk Road 43, Mena, Ar 71953",
+    "1560 Tower Dr Ne, Arab, Al 35016",
+    "1605 170Th St, Hampton, Ia 50441",
+    "1611 Veterans Ave, Vandalia, Il 62471",
+    "1622 Nw 55Th Pl, Gainesville, Fl 32653",
+    "1630 S Constitution Ave, Ashdown, Ar 71822",
+    "1701 Ragu Dr, Owensboro, Ky 42303",
+    "1713 E Bowman Dr, Greenville, Il 62246",
+    "1745 N Airport Rd, Fremont, Ne 68025",
+    "17626 N College St, Lindale, Tx 75771",
+    "1767 S 15Th Ave, Ozark, Mo 65721",
+    "180 Holt Ave, Macon, Ga 31201",
+    "1800 Hillsboro Rd, Vandalia, Il 62471",
+    "1801 N Lincoln, Lovington, Nm 88260",
+    "1806 W Fletcher St, Vandalia, Il 62471",
+    "1820 S Dumas Ave, Dumas, Tx 79029",
+    "1823 W Broadway St, Forrest City, Ar 72335",
+    "1848 Barnes St, Reidsville, Nc 27320",
+    "19 North Dr Se, Acworth, Ga 30102",
+    "1902 Vandalia St, Collinsville, Il 62234",
+    "Self-Storage",
+    "20 North Ave Ne, Rome, Ga 30161",
+    "200 E Blackjack St, Dublin, Tx 76446",
+    "2000 E 4Th St, Owensboro, Ky 42303",
+    "2001 Town West Dr, Rogers, Ar 72756",
+    "2002 W Military Ave, Fremont, Ne 68025",
+    "2003 Ross Creek Rd, Waldron, Ar 72958",
+    "2006 N Main St, Shelbyville, Tn 37160"
+  ],
+  "commercial": [
+    "1521 S Frontage Rd, Columbus, Ms 39701",
+    "1601 Highway 45 N, Columbus, Ms 39705",
+    "1700 Nw 80Th Blvd, Gainesville, Fl 32606",
+    "1717 Highway 59 Loop N, Livingston, Tx 77351",
+    "17203 Us Highway 70, Lone Grove, Ok 73443",
+    "General Industrial",
+    "177 Frontier Park Dr, O Fallon, Mo 63366",
+    "17801 S State Highway 6 S, College Station, Tx 77845",
+    "17819 S Us Highway 377, Dublin, Tx 76446",
+    "180 Shamrock Industrial Blvd, Tyrone, Ga 30290",
+    "1847 Us Highway 59 Pkwy S, Carthage, Tx 75633",
+    "1851 W Highway 50, O Fallon, Il 62269",
+    "1875 S Frontage Rd, Columbus, Ms 39701",
+    "189 Commerce Pl, Asheboro, Nc 27203",
+    "1915 Highway 82 E, Whitesboro, Tx 76273",
+    "1991 Highway 337 Nw, Corydon, In 47112",
+    "200 Success Blvd, Dumas, Tx 79029",
+    "201 Fairburn Industrial Blvd, Fairburn, Ga 30213"
+  ],
+  "unknown": [
+    "1740 Ne Loop, Carthage, Tx 75633",
+    "1942 N Brindlee Mountain Pkwy, Arab, Al 35016"
+  ]
+}
